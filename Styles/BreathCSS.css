@@ -27,7 +27,7 @@ header{
     width: 83%;
     /*border-radius: 10%;*/
     margin-top: 50px;
-    border: goldenrod 3px solid;
+    border: gold 3px solid;
 }
 
 table {
@@ -45,10 +45,11 @@ table img {
 }
 
 html body {
-    background-color: rgba(65,105,225,1.00);
+    background-color: rgba(53,124,44,1.00);
 
 }
 
 section{
     text-align: center;
+    color: white;
 }

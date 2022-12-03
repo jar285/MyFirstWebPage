@@ -34,6 +34,8 @@ list li a:hover{
     width: 83%;
     /*border-radius: 10%;*/
     margin-top: 50px;
+    border-color: black;
+    border: 3px solid;
 }
 
 .left{

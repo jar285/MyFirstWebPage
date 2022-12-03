@@ -30,8 +30,9 @@ header{
 
 section{
     text-align: center;
+    color: white;
 }
 
 html body{
-    background-color: rgba(244,196,48,1.00)
+    background-color: rgba(178,43,50,1.00)
 }

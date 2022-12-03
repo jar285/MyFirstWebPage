@@ -1,0 +1,65 @@
+@media all and (min-width: 992px) {
+    .navbar .nav-item .dropdown-menu{ display: none; }
+    .navbar .nav-item:hover .nav-link{   }
+    .navbar .nav-item:hover .dropdown-menu{ display: block; }
+    .navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+header {
+    padding: 1.5em 30px 2em 30px;
+    text-align: center;
+    border-bottom: 3px solid;
+    border-bottom-color: black;
+    background-color: #333;
+    color: white;
+}
+
+header{
+    border: 5px solid;
+    border-color: black;
+}
+section{
+    float: left;
+    margin: 0 15px 0 0;
+    color: white;
+}
+span{
+    vertical-align: middle;
+}
+img {
+    float: left;
+    margin-right: 1.9em;
+    position: relative;
+}
+
+li {
+    list-style-position: outside;
+}
+ul {
+    padding-left: 1.2em;
+
+}
+
+article img{
+    border: 3px solid black;
+
+}
+
+article ul.z{
+    list-style-type: circle;
+}
+
+article ul.x{
+    list-style-type: circle;
+}
+
+article ul.y{
+    list-style-type: circle;
+}
+article ul.j{
+    list-style-type: circle;
+}
+
+html body{
+    background-color: lightcyan;
+}
+

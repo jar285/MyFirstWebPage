@@ -69,3 +69,31 @@ section p{
     text-align: center;
     font-size: 18px;
 }
+
+html body{
+    background-color: lightcyan;
+}
+
+section a:link{
+    color: lightcyan;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+section a:visited{
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+section a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+section a:active{
+    color: lightgoldenrodyellow;
+    background-color: transparent;
+    text-decoration: underline;
+}

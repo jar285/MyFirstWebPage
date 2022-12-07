@@ -18,7 +18,7 @@ header{
     border-color: black;
 }
 
-body{
+html body{
     background-color: lightcyan;
 }
 /*
@@ -70,4 +70,14 @@ button:hover {
     background-color: #f2f2f2;
     padding: 20px;
 }
-
+footer {
+    position: sticky;
+    text-align: center;
+    border: 50px;
+    border-bottom-color: blue;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}

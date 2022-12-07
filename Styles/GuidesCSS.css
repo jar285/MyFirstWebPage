@@ -71,5 +71,54 @@ html body{
     background-color: lightcyan;
 }
 
+footer {
+    position: sticky;
+    text-align: center;
+    border: 50px;
+    border-bottom-color: blue;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+h4 {
+    text-align: center;
+}
+
+aside h2{
+    text-align: center;
+}
+
+aside h3{
+    text-align: center;
+}
+
+aside img{
+    border: 3px solid red;
+}
+
+html body{
+    background-color: lightcyan;
+}
+
 
 

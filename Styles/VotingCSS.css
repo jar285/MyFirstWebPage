@@ -22,7 +22,7 @@ header{
 
 
 
-body {
+html body {
     background-color: lightcyan;
     margin: 0;
     padding: 0;
@@ -56,4 +56,17 @@ table td{
     font-size: 14px;
     text-align: center;
 }
+footer {
+    position: sticky;
+    text-align: center;
+    border: 50px;
+    border-bottom-color: blue;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+
 

@@ -62,4 +62,15 @@ article ul.j{
 html body{
     background-color: lightcyan;
 }
+footer {
+    position: sticky;
+    border: 50px;
+    text-align: center;
+    border-bottom-color: blue;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
 

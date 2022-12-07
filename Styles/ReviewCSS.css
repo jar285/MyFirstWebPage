@@ -97,3 +97,14 @@ section a:active{
     background-color: transparent;
     text-decoration: underline;
 }
+footer {
+    position: sticky;
+    text-align: center;
+    border: 50px;
+    border-bottom-color: blue;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}

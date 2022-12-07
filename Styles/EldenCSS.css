@@ -36,3 +36,15 @@ section{
 html body{
     background-color: rgba(28,54,55,1.00)
 }
+
+footer {
+    position: sticky;
+    text-align: center;
+    border: 50px;
+    border-bottom-color: blue;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
